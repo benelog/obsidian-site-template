@@ -28,3 +28,9 @@ This template is deployed at https://benelog.github.io/obsidian-site-template/
 ## Deployment
 
 The GitHub Actions workflow uses [benelog/obsidian-site@v1](https://github.com/benelog/obsidian-site) to build the site and deploy it to GitHub Pages.
+
+The workflow uses two GitHub-provided actions for deployment:
+
+- **[`actions/upload-pages-artifact`](https://github.com/actions/upload-pages-artifact)** — Packages the build output (`./public`) as a GitHub Pages artifact and uploads it.
+- **[`actions/deploy-pages`](https://github.com/actions/deploy-pages)** — Takes the uploaded artifact and deploys it to GitHub Pages. This action requires the repository's **Settings → Pages → Build and deployment → Source** to be set to **GitHub Actions**.
+

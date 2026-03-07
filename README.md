@@ -1,4 +1,4 @@
-# obsidian-site-template
+# Obsidian Site Template
 
 An example site for [obsidian-site](https://github.com/benelog/obsidian-site).
 

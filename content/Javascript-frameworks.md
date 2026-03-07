@@ -16,8 +16,8 @@ A compiler-based approach that shifts work to build time, resulting in smaller b
 
 ## Parent
 
-- [[javascript]]
+- [[Javascript]]
 
 ## See also
 
-- [[python-web-frameworks]]
+- [[Python-web-frameworks]]

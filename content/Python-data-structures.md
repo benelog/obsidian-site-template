@@ -28,4 +28,4 @@ tags = {"python", "programming", "data"}
 
 ## Parent
 
-- [[python]]
+- [[Python]]

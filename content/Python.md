@@ -4,9 +4,9 @@ Python is a high-level, interpreted language known for its readability and versa
 
 ## Topics
 
-- [[python-data-structures]] - Lists, dicts, sets, and more
-- [[python-web-frameworks]] - Building web apps with Python
+- [[Python-data-structures]] - Lists, dicts, sets, and more
+- [[Python-web-frameworks]] - Building web apps with Python
 
 ## Parent
 
-- [[programming]]
+- [[Programming]]

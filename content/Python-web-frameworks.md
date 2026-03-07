@@ -16,8 +16,8 @@ A modern framework built on type hints and async support. Generates OpenAPI docs
 
 ## Parent
 
-- [[python]]
+- [[Python]]
 
 ## See also
 
-- [[javascript-frameworks]]
+- [[Javascript-frameworks]]

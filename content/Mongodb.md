@@ -30,4 +30,4 @@ db.articles.find({ tags: "nosql" }).sort({ title: 1 });
 
 ## Parent
 
-- [[nosql]]
+- [[Nosql]]

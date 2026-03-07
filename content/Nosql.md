@@ -11,12 +11,12 @@ NoSQL databases provide flexible schemas and are designed for specific data mode
 
 ## Types
 
-- [[mongodb]] - Document-oriented database
+- [[Mongodb]] - Document-oriented database
 
 ## Parent
 
-- [[databases]]
+- [[Databases]]
 
 ## See also
 
-- [[sql-basics]]
+- [[Sql-basics]]

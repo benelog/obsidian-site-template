@@ -20,8 +20,8 @@ ORDER BY name;
 
 ## Topics
 
-- [[sql-joins]] - Combining data from multiple tables
+- [[Sql-joins]] - Combining data from multiple tables
 
 ## Parent
 
-- [[databases]]
+- [[Databases]]

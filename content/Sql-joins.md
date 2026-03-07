@@ -32,4 +32,4 @@ Returns all rows from both tables, filling in NULLs where there is no match.
 
 ## Parent
 
-- [[sql-basics]]
+- [[Sql-basics]]

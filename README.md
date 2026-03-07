@@ -8,7 +8,9 @@ An example site for [obsidian-site](https://github.com/benelog/obsidian-site).
 
 This template is deployed at https://benelog.github.io/obsidian-site-template/
 
-![Demo screenshot](screenshot.png)
+![Home](screenshot.png)
+
+![Page](screenshot-python.png)
 
 ## Structure
 

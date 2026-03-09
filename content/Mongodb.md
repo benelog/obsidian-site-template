@@ -1,3 +1,9 @@
+---
+tags:
+  - mongodb
+  - nosql
+  - database
+---
 # MongoDB
 
 MongoDB is a document-oriented NoSQL database that stores data as flexible JSON-like documents (BSON).

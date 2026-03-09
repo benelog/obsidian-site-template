@@ -1,3 +1,9 @@
+---
+tags:
+  - python
+  - web
+  - framework
+---
 # Python Web Frameworks
 
 Python has a rich ecosystem of web frameworks for building applications of all sizes.

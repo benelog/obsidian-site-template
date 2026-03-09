@@ -1,3 +1,8 @@
+---
+tags:
+  - javascript
+  - async
+---
 # Asynchronous JavaScript
 
 JavaScript is single-threaded but handles concurrency through an event loop and non-blocking I/O.

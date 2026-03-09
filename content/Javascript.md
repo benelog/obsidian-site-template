@@ -1,3 +1,9 @@
+---
+tags:
+  - javascript
+  - programming-language
+  - web
+---
 # JavaScript
 
 JavaScript is the primary language of the web, running in browsers and on servers via Node.js.

@@ -1,3 +1,8 @@
+---
+tags:
+  - database
+  - overview
+---
 # Databases
 
 Databases are systems for storing, organizing, and retrieving data efficiently.

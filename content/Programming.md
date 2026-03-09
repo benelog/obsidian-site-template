@@ -1,3 +1,8 @@
+---
+tags:
+  - programming
+  - overview
+---
 # Programming
 
 A collection of notes on programming languages and paradigms.

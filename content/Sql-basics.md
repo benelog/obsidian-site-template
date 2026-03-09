@@ -1,3 +1,8 @@
+---
+tags:
+  - sql
+  - database
+---
 # SQL Basics
 
 SQL (Structured Query Language) is the standard language for interacting with relational databases like PostgreSQL, MySQL, and SQLite.
